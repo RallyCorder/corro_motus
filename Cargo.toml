@@ -1,0 +1,10 @@
+[package]
+name = "corro_motus"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+colored = "3.0.0"
+bracket-random = "0.8.7"
+viuer = "0.9.1"
+image = "0.25.6"
